@@ -69,9 +69,9 @@ export default {
         toast: true,
         icon: "success",
         title: "Posted successfully",
-        animation: false,
+        animation: true,
         position: "top-end",
-        showConfirmButton: false,
+        showConfirmButton: true,
       });
     },
   },
